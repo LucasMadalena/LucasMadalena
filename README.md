@@ -8,17 +8,9 @@ Gosto de transformar ideias em projetos práticos — unindo hardware, software 
 ## 🧠 Conhecimentos  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="60" height="60"/>
-  -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,arduino" />
+  </a>
 </p>
 
 ---
@@ -38,9 +30,14 @@ Gosto de transformar ideias em projetos práticos — unindo hardware, software 
 
 ## 🎯 O que quero aprender no futuro  
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cs,unity,firebase,aws,php" />
+  </a>
+</p>
+
 - 🤖 Inteligência Artificial aplicada a IoT  
-- ☁️ Sistemas em nuvem com Firebase / AWS IoT  
-- 📡 Linguagens como C#, JavaScript e PHP  
+- ☁️ Sistemas em nuvem com Firebase / AWS IoT   
 - 💻 Programação de jogos  
 
 ---
@@ -58,6 +55,10 @@ Gosto de transformar ideias em projetos práticos — unindo hardware, software 
   -
   <a href="https://www.linkedin.com/in/seu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+  <a href="https://www.discord.com">
+    <img src="https://img.shields.io/badge/discord-5764f1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </p>
 
