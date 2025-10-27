@@ -56,7 +56,7 @@ Gosto de transformar ideias em projetos práticos — unindo hardware, software 
   <a href="https://www.linkedin.com/in/seu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
+  -
   <a href="https://www.discord.com">
     <img src="https://img.shields.io/badge/discord-5764f1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
