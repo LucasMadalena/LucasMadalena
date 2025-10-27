@@ -30,10 +30,12 @@ Gosto de transformar ideias em projetos práticos — unindo hardware, software 
 
 ## Tochika Studios
  > Uma empresa de jogos em acensão que sonha com objetivo de crescer apesar de possuir uma equipe pequena.
-# Jogos:
-  <a src="https://12guilhrm12.itch.io/stars-enigma">
-    > <p>Stars Enigmas</p>
+### Jogos:
+<p>
+  <a href="https://12guilhrm12.itch.io/stars-enigma">
+     Stars Enigmas
   </a>
+</p>
 
 ---
 
