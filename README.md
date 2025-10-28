@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text=Tochika%20Studios&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=59&stroke=000000&strokeWidth=3&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5916a6"  />
+</div>
+
 # 👋 Olá, eu sou Lucas Madalena  
 
 Sou desenvolvedor interessado por tecnologia, programação, automação e Internet das Coisas (IoT).  
@@ -35,6 +39,12 @@ Gosto de transformar ideias em projetos práticos — unindo hardware, software 
   <a href="https://12guilhrm12.itch.io/stars-enigma">
      Stars Enigmas
   </a>
+    <a href="https://12guilhrm12.itch.io/tochikas-fish-adventure">
+     Tockica's Fish Adventure
+  </a>
+    <a href="https://12guilhrm12.itch.io/futurespath">
+     Os Caminhos do Futuro
+  </a>
 </p>
 
 ---
@@ -59,17 +69,17 @@ Gosto de transformar ideias em projetos práticos — unindo hardware, software 
   <a href="https://github.com/LucasMadalena">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  -
   <a href="mailto:lucastmadalena@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  -
   <a href="https://www.linkedin.com/in/seu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  -
   <a href="https://www.discord.com">
     <img src="https://img.shields.io/badge/discord-5764f1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+    <a href="https://tochikastudios.onrender.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Tochika_Studios-orange.svg?logo=tochikastudios&logoColor=white&style=for-the-badge" alt="Tochika Studios"/>
   </a>
 </p>
 
